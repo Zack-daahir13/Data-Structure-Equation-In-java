@@ -1,0 +1,2 @@
+InsertionSort
+implementation.of.insertion.sort.ImplementationOfInsertionSort
